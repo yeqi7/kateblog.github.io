@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Kate
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: front-end developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:15838129716@163.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: yeqi7/kateblog
   instagram:
   linkedin:
   pinterest:
